@@ -5,7 +5,7 @@
 - 한글조합 [HangulCombination.cs](./code/HangulCombination.cs)
 
 ## PATTERN
-- 싱글톤 [Singleton.cs](./code/singleton.cs)
+- 싱글톤 [Singleton.cs](./pattern/singleton.cs)
 ## MANAGER
-- 사운드매니저 [SoundManager.cs](./code/SoundManager.cs)
+- 사운드매니저 [SoundManager.cs](./manager/SoundManager.cs)
 
